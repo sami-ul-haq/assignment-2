@@ -333,6 +333,13 @@ footer .footer-content {
   padding-bottom: 10px;
 }
 
+.interests iframe,
+.education iframe,
+.travel iframe {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Contact Page Stylings*/
 
 .hero-contact {
